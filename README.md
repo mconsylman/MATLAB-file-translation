@@ -1,2 +1,2 @@
 # MATLAB-file-translation
-Some simple fle reading test pages in JavaScript.
+Some simple .mat file reading test pages in JavaScript.
